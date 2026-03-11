@@ -6,6 +6,7 @@ I'm a double-major Computer Science student specializing in **Intelligent System
 - 🎓 Currently studying at AGH University of Krakow
 - 🧠 Exploring Deep Learning, Computer Vision, and Medical Data Analysis
 - 🌱 Currently working on improving my ML/AI skills
+- 🤝 Active member of **AI-MED** Research Group at AGH
 - 💡 Looking for opportunities to collaborate on innovative projects
 
 ## 🛠️ Tech Stack & Tools
