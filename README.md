@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Filip Sobala! 👋
 
-<!--
-**FilipSobala/FilipSobala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a double-major Computer Science student specializing in **Intelligent Systems** and **Medical Computer Science**. I am passionate about applying **Machine Learning** and **Computer Vision** to solve real-world problems, especially in medicine and healthcare.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 Currently studying at AGH University of Krakow
+- 🧠 Exploring Deep Learning, Computer Vision, and Medical Data Analysis
+- 🌱 Currently working on improving my ML/AI skills
+- 💡 Looking for opportunities to collaborate on innovative projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack & Tools
+**Languages:** Python, PostgreSQL, C++
+**AI / ML:**  Scikit-learn, Pandas, NumPy, PyTorch, TensorFlow, OpenCV
+**Tools:** Git, Jupyter Notebooks
+
+## 📫 Let's Connect
+- **Email:** f.sobala@gmail.com
