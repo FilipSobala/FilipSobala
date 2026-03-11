@@ -9,9 +9,9 @@ I'm a double-major Computer Science student specializing in **Intelligent System
 - 💡 Looking for opportunities to collaborate on innovative projects
 
 ## 🛠️ Tech Stack & Tools
-**Languages:** Python, PostgreSQL, C++
-**AI / ML:**  Scikit-learn, Pandas, NumPy, PyTorch, TensorFlow, OpenCV
-**Tools:** Git, Jupyter Notebooks
+-**Languages:** Python, PostgreSQL, C++
+-**AI / ML:**  Scikit-learn, Pandas, NumPy, PyTorch, TensorFlow, OpenCV
+-**Tools:** Git, Jupyter Notebooks
 
 ## 📫 Let's Connect
 - **Email:** f.sobala@gmail.com
