@@ -16,4 +16,5 @@ I'm a double-major Computer Science student specializing in **Intelligent System
 - **Tools:** Git, Jupyter Notebooks
 
 ## 📫 Let's Connect
+- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/Filip_Sobala-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filip-sobala-72b3713a2)
 - **Email:** f.sobala@gmail.com
