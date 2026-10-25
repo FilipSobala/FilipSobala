@@ -1,20 +1,21 @@
-# Hi there, I'm Filip Sobala! 👋
+# Filip Sobala
+**ML Researcher @ AI MED AGH · Software Engineer @ Appliscale · CS & Medical Informatics @ AGH Kraków**
 
-I'm a double-major Computer Science student specializing in **Intelligent Systems** and **Medical Computer Science**. I am passionate about applying **Machine Learning** and **Computer Vision** to solve real-world problems, especially in medicine and healthcare.
+I build ML models on real-world data (steel industry, medical imaging) and ship production web features in TypeScript.
 
-## 🚀 About Me
-- 🎓 Currently studying at AGH University of Krakow
-- 🧠 Exploring Deep Learning, Computer Vision, and Medical Data Analysis
-- 🌱 Currently working on improving my ML/AI skills
-- 🤝 Active member of **AI-MED** Research Group at AGH
-- 💡 Looking for opportunities to collaborate on innovative projects
+## Now
+- **Appliscale** — full-stack features (TypeScript, Cube.js, Kubernetes) for an ad-tech platform where AI agents generate client reports and recommend campaign changes. Co-authored a benchmark of a code-map tool for AI coding agents (37 tasks, 174 runs).
+- **AI MED AGH** — ML researcher & tech lead; led a 6-person team on breast-lesion classification (CBIS-DDSM mammograms).
 
-## 🛠️ Tech Stack & Tools
+## Featured projects
+| Project | What | Result |
+|---|---|---|
+| [Steel Production Optimization](https://github.com/AI-MED-AGH/steel-production-optimization) | XGBoost + Optuna predicting steel mechanical properties for ArcelorMittal, SHAP explanations | **R² 0.92** |
+| [CV DSL Compiler](https://github.com/FilipSobala/Kompilator-opisu-CV-do-formatu-HTML) | Own language for CVs → HTML/PDF; ANTLR v4, AST, Visitor, VS Code extension | Java |
+| [Cardiomegaly Detection](https://github.com/FilipSobala/kardiomegalia_team2) | Random Forest on 10 engineered geometric features from chest scans | **F1 0.93**, 90% acc. |
 
-- **Languages:** Python, PostgreSQL, C++
-- **AI / ML:** Scikit-learn, Pandas, NumPy, PyTorch, TensorFlow, OpenCV
-- **Tools:** Git, Jupyter Notebooks
+## Stack
+**ML:** Python, scikit-learn, XGBoost, PyTorch, TensorFlow, OpenCV, Pandas · **Web:** TypeScript, JavaScript, Cube.js · **Infra:** Docker, Kubernetes, AWS, Git · **Data:** PostgreSQL
 
-## 📫 Let's Connect
-- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/Filip_Sobala-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filip-sobala)
-- **Email:** f.sobala@gmail.com
+## Contact
+[LinkedIn](https://www.linkedin.com/in/filip-sobala) · f.sobala@gmail.com
